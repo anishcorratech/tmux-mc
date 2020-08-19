@@ -19,3 +19,7 @@ if you want to name the tmux session
 ```
 tmux -f ${HOME}/var/corra/tmux.conf new -s anish
 ```
+
+## Credits
+
+anish.asokan
